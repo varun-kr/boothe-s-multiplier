@@ -1,5 +1,4 @@
 // Code your design here
-// Code your design here
 module boothe(data_in,clr,ld_a,ld_q,ld_r,ld_cnt,clk,shift,ld_p,in,ld,dec,clr_f,out,add,sub,eqz);
   parameter N=9;//parameter value
   input [N-1:0] data_in;
